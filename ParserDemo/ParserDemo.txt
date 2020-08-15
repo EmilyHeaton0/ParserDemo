@@ -1,0 +1,38 @@
+
+rav num: 3.4;
+rav num: 5.8;
+num: 5.0;
+num:'gnirts';
+num: rav;
+num: rand;
+tnirp num;
+
+rav num2: 1.0;
+num2: num;
+tnirp num2;
+
+num3;
+num4: 45;
+rav num5:;
+num6:;
+
+rav num7;
+
+rav rav;
+
+rav NullNum;
+tnirp NullNum;
+
+rav NullNum2: NullNum;
+
+rav num8: num99;
+
+3++3;
+3-'elloh';
+4-5;
+rav NumExpression: 4-5;
+rav NumExpression2: 4 * 'olleh';
+
+
+rav Emily:'ylime';
+tnirp Emily;
